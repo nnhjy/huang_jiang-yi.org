@@ -6,7 +6,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./pages/another-page.md).
 
-[Link to a pdf file](./assets/pdfs/FAST-Algorithm.pdf).
+[FAST-MIP-doc](./assets/pdfs/FAST-Algorithm.pdf).
 
 There should be whitespace between paragraphs.
 
