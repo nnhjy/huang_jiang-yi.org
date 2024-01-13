@@ -1,5 +1,11 @@
 theme: jekyll-theme-minimal
+
 title: 格物致知，言理以故
+
 logo: /assets/img/logo.png
-description: [欲求超胜，必先会通。——【明】徐光启
+
+description: |
+    欲求超胜，必先会通。——【明】徐光启
     不因既明累推其未明，吾知奚至哉！——【欧】利玛窦]
+
+github:
